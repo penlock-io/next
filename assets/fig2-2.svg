@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Inter-Bold, Inter;
+        font-size: 120px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-dasharray: 1 8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #1a1a1a;
+        font-size: 48px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Kalam-Regular, Kalam;
+      }
+
+      .cls-5 {
+        fill: gray;
+        font-family: Inter-Medium, Inter;
+        font-size: 100px;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        fill: #eee;
+      }
+
+      .cls-4 {
+        font-size: 158.49px;
+      }
+    </style>
+  </defs>
+  <g id="Checksum">
+    <text class="cls-5" transform="translate(400.04 700)"><tspan x="0" y="0">a</tspan><tspan class="cls-9" x="56.92" y="0">.</tspan></text>
+    <g id="Doted_line">
+      <polyline class="cls-2" points="1300.07 600 1300.07 700 1100.07 700"/>
+      <polyline class="cls-2" points="900.07 600 900.07 700 700.07 700"/>
+      <polyline class="cls-2" points="1100.07 600 1100.07 700 900.07 700"/>
+      <polyline class="cls-2" points="500.07 600 500.07 700 700.07 700 700.07 600"/>
+    </g>
+    <text class="cls-3" transform="translate(100.03 676.28)"><tspan x="0" y="0">Checksum -&gt;</tspan></text>
+  </g>
+  <g id="Share_A">
+    <text class="cls-1" transform="translate(400 200)"><tspan x="0" y="0">Sha</tspan><tspan class="cls-6" x="223.12" y="0">r</tspan><tspan x="269.1" y="0">e A</tspan></text>
+    <text class="cls-5" transform="translate(400 500)"><tspan class="cls-7" x="0" y="0">1</tspan><tspan class="cls-8" x="43.15" y="0">.</tspan></text>
+    <g id="_x31__-_Rec">
+      <rect class="cls-10" x="499.49" y="300" width="200" height="200"/>
+      <rect class="cls-10" x="699.49" y="300" width="200" height="200"/>
+      <rect class="cls-10" x="1099.49" y="300" width="200" height="200"/>
+      <rect class="cls-10" x="899.49" y="300" width="200" height="200"/>
+    </g>
+    <g id="Path_Dooted">
+      <polyline class="cls-2" points="500.03 400 500.03 500 700.03 500 700.03 400"/>
+      <polyline class="cls-2" points="1100.03 400 1100.03 500 900.03 500"/>
+      <polyline class="cls-2" points="900.03 400 900.03 500 700.03 500"/>
+      <polyline class="cls-2" points="1300.03 400 1300.03 500 1100.03 500"/>
+    </g>
+    <g id="Gift">
+      <text class="cls-4" transform="translate(550.03 472.43)"><tspan x="0" y="0">B</tspan></text>
+      <text class="cls-4" transform="translate(754.09 472.43)"><tspan x="0" y="0">-</tspan></text>
+      <text class="cls-4" transform="translate(973.74 472.43)"><tspan x="0" y="0">Y</tspan></text>
+      <text class="cls-4" transform="translate(1170.05 472.43)"><tspan x="0" y="0">F</tspan></text>
+    </g>
+  </g>
+</svg>

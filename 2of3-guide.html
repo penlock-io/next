@@ -29,6 +29,19 @@
     .solving aside {
         margin-top: 0;
     }
+
+    .illustration {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+
+        border: 1px lightgray solid;
+    }
+
+    .illustration img {
+        max-width: 45%;
+    }
 </style>
 
 <penlock-header
@@ -149,6 +162,10 @@
                 characters long, use a "-" (dash) as the final character.
             </p>
 
+            <section class="illustration">
+                <img src="./assets/fig1.svg" />
+            </section>
+
             <aside>
                 <em>Note:</em> 4 characters are enough to uniquely identify seed
                 words. The wallet recovery process doesn't require more.
@@ -180,6 +197,11 @@
                     gray boxes are filled.
                 </li>
             </ol>
+
+            <section class="illustration">
+                <img src="./assets/fig2-1.svg" />
+                <img src="./assets/fig2-2.svg" />
+            </section>
         </section>
 
         <section>
@@ -229,6 +251,11 @@
                 </li>
             </ol>
 
+            <section class="illustration">
+                <img src="./assets/fig3-1.svg" />
+                <img src="./assets/fig3-2.png" />
+            </section>
+
             <aside>
                 <em>Example:</em>
                 The checksum under the word "COIN" will be "?KVD". The first
@@ -271,6 +298,11 @@
                     and white fields are filled.
                 </li>
             </ol>
+
+            <section class="illustration">
+                <img src="./assets/fig4-1.svg" />
+                <img src="./assets/fig4-2.png" />
+            </section>
         </section>
 
         <section>
@@ -298,6 +330,13 @@
                 <li>Derive the 3 characters again.</li>
                 <li>Verify that this results in a correct checksum.</li>
             </ol>
+
+            <section class="illustration">
+                <img src="./assets/fig5-1.svg" />
+                <img src="./assets/fig5-3.svg" />
+                <img src="./assets/fig5-2.png" />
+            </section>
+
             <aside>
                 <em>Tip:</em> In general, it is possible to guess which
                 character is erroneous. When a single group of 3 characters is
@@ -453,6 +492,11 @@
                 are found, solve them as indicated previously in
                 <em>Verifying the Checksums</em>.
             </p>
+
+            <section class="illustration">
+                <img src="./assets/fig6-1.svg" />
+                <img src="./assets/fig6-2.png" />
+            </section>
         </section>
     </section>
 </section>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Share_B_Checksum" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 1300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6e6e6;
+      }
+
+      .cls-2 {
+        font-family: Inter-Bold, Inter;
+        font-size: 120px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #1a1a1a;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 16.13 27.21;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-7 {
+        fill: gray;
+      }
+
+      .cls-7, .cls-3 {
+        font-family: Kalam-Regular, Kalam;
+        font-size: 160px;
+      }
+
+      .cls-5 {
+        stroke: #333;
+        stroke-dasharray: 1 8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        fill: #666;
+        font-family: Inter-Medium, Inter;
+        font-size: 100px;
+        font-weight: 500;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Secret">
+    <text class="cls-2" transform="translate(113.84 400.83)"><tspan x="0" y="0">Sha</tspan><tspan class="cls-9" x="223.12" y="0">r</tspan><tspan x="269.1" y="0">e B</tspan></text>
+    <g id="a.">
+      <text class="cls-8" transform="translate(201.47 902.4)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="56.92" y="0">.</tspan></text>
+      <g id="Doted_line">
+        <polyline class="cls-5" points="1101.49 802.4 1101.49 902.4 901.49 902.4"/>
+        <polyline class="cls-5" points="701.49 802.4 701.49 902.4 501.49 902.4"/>
+        <polyline class="cls-5" points="901.49 802.4 901.49 902.4 701.49 902.4"/>
+        <polyline class="cls-5" points="301.49 802.4 301.49 902.4 501.49 902.4 501.49 802.4"/>
+      </g>
+      <g id="Text-2" data-name="Text">
+        <text class="cls-7" transform="translate(351.49 869.94)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-3" transform="translate(553.64 869.94)"><tspan x="0" y="0">Z</tspan></text>
+        <text class="cls-7" transform="translate(752.76 869.94)"><tspan x="0" y="0">B</tspan></text>
+        <text class="cls-7" transform="translate(952.07 869.94)"><tspan x="0" y="0">P</tspan></text>
+      </g>
+    </g>
+    <g id="_x31_.">
+      <text class="cls-8" transform="translate(201.47 702.42)"><tspan class="cls-10" x="0" y="0">1</tspan><tspan class="cls-11" x="43.15" y="0">.</tspan></text>
+      <g id="Square">
+        <rect class="cls-1" x="301.49" y="502.42" width="200" height="200"/>
+        <rect class="cls-1" x="501.49" y="502.42" width="200" height="200"/>
+        <rect class="cls-1" x="901.49" y="502.42" width="200" height="200"/>
+        <rect class="cls-1" x="701.49" y="502.42" width="200" height="200"/>
+      </g>
+      <g id="Dot_line">
+        <polyline class="cls-5" points="1101.49 602.42 1101.49 702.42 901.49 702.42"/>
+        <polyline class="cls-5" points="301.49 602.42 301.49 702.42 501.49 702.42 501.49 602.42"/>
+        <polyline class="cls-5" points="901.49 602.42 901.49 702.42 701.49 702.42"/>
+        <polyline class="cls-5" points="701.49 602.42 701.49 702.42 501.49 702.42"/>
+      </g>
+      <g id="Gift">
+        <text class="cls-3" transform="translate(351.49 669.96)"><tspan x="0" y="0">D</tspan></text>
+        <text class="cls-3" transform="translate(561.56 669.96)"><tspan x="0" y="0">B</tspan></text>
+        <text class="cls-7" transform="translate(775.2 669.96)"><tspan x="0" y="0">E</tspan></text>
+        <text class="cls-7" transform="translate(971.52 669.96)"><tspan x="0" y="0">V</tspan></text>
+        <text/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-6" d="M455.86,543.28c1.67-1.41,3.83-3.01,6.5-4.65"/>
+    <path class="cls-4" d="M487.67,528.99c17.16-3.53,40.87-3.5,72.04,6.28"/>
+    <path class="cls-6" d="M572.58,539.72c2.44.92,4.92,1.89,7.45,2.93"/>
+    <path d="M461.19,547.62c-2.5,2.78-6.78,3.01-9.56.51-2.78-2.5-3.01-6.78-.51-9.56,2.5-2.78,6.78-3.01,9.56-.51,2.78,2.5,3.01,6.78.51,9.56Z"/>
+    <path d="M577.1,548.8c3.45,1.44,7.41-.2,8.85-3.65,1.44-3.45-.2-7.41-3.65-8.85-3.45-1.44-7.41.2-8.85,3.65-1.44,3.45.2,7.41,3.65,8.85Z"/>
+  </g>
+  <g>
+    <path class="cls-6" d="M670.53,685s50.94,96.73-2.66,124.25"/>
+    <polygon points="670.7 783.59 675.33 784.84 669.11 807.68 692.34 812.22 691.41 816.93 663.12 811.4 670.7 783.59"/>
+  </g>
+</svg>

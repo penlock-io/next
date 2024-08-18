@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Inter-Regular, Inter;
+        font-size: 24px;
+      }
+
+      .cls-2 {
+        font-family: Inter-Bold, Inter;
+        font-size: 120px;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: Kalam-Regular, Kalam;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        font-size: 160px;
+      }
+
+      .cls-3, .cls-7 {
+        fill: gray;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-dasharray: 1 8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill: none;
+      }
+
+      .cls-8, .cls-10, .cls-11, .cls-12 {
+        stroke: #000;
+      }
+
+      .cls-9 {
+        stroke: #333;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #1a1a1a;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 18.06 30.47;
+      }
+
+      .cls-10, .cls-11 {
+        stroke-width: 6px;
+      }
+
+      .cls-10, .cls-11, .cls-12 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        font-family: Inter-Medium, Inter;
+        font-size: 100px;
+        font-weight: 500;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        fill: #eee;
+      }
+    </style>
+  </defs>
+  <g id="Secret">
+    <g id="Secret-2" data-name="Secret">
+      <text class="cls-2" transform="translate(402.38 496.87)"><tspan x="0" y="0">Sec</tspan><tspan class="cls-13" x="220.78" y="0">r</tspan><tspan x="266.76" y="0">et</tspan></text>
+      <g id="a.">
+        <text class="cls-7" transform="translate(402.38 999.48)"><tspan x="0" y="0">a</tspan><tspan class="cls-16" x="56.92" y="0">.</tspan></text>
+        <g id="Doted_line">
+          <polyline class="cls-8" points="1302.4 899.48 1302.4 999.48 1102.4 999.48"/>
+          <polyline class="cls-8" points="902.4 899.48 902.4 999.48 702.4 999.48"/>
+          <polyline class="cls-8" points="1102.4 899.48 1102.4 999.48 902.4 999.48"/>
+          <polyline class="cls-8" points="502.4 899.48 502.4 999.48 702.4 999.48 702.4 899.48"/>
+        </g>
+        <g id="Text-2" data-name="Text">
+          <text class="cls-5" transform="translate(754.55 967.02)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+      <g id="_x31_.">
+        <text class="cls-7" transform="translate(402.38 799.5)"><tspan class="cls-14" x="0" y="0">1</tspan><tspan class="cls-15" x="43.15" y="0">.</tspan></text>
+        <g id="Square">
+          <rect class="cls-17" x="502.41" y="599.5" width="200" height="200"/>
+          <rect class="cls-17" x="702.41" y="599.5" width="200" height="200"/>
+          <rect class="cls-17" x="1102.41" y="599.5" width="200" height="200"/>
+          <rect class="cls-17" x="902.41" y="599.5" width="200" height="200"/>
+        </g>
+        <g id="Dot_line">
+          <polyline class="cls-9" points="1302.41 699.5 1302.41 799.5 1102.41 799.5"/>
+          <polyline class="cls-9" points="502.41 699.5 502.41 799.5 702.41 799.5 702.41 699.5"/>
+          <polyline class="cls-9" points="1102.41 699.5 1102.41 799.5 902.41 799.5"/>
+          <polyline class="cls-9" points="902.41 699.5 902.41 799.5 702.41 799.5"/>
+        </g>
+        <g id="Gift">
+          <text class="cls-6" transform="translate(552.4 767.04)"><tspan x="0" y="0">A</tspan></text>
+          <text class="cls-6" transform="translate(757.46 767.04)"><tspan x="0" y="0">C</tspan></text>
+          <text class="cls-3" transform="translate(976.11 767.04)"><tspan x="0" y="0">I</tspan></text>
+          <text class="cls-3" transform="translate(1172.43 767.04)"><tspan x="0" y="0">D</tspan></text>
+          <text/>
+        </g>
+      </g>
+    </g>
+    <g id="Secret_-_Line">
+      <g>
+        <path class="cls-11" d="M641.82,648.48c1.97-.93,4.44-2,7.36-3.13"/>
+        <path class="cls-10" d="M678.51,637.26c21.17-3.81,49.1-4.85,81.1,3.51"/>
+        <path class="cls-11" d="M774.2,645.17c2.49.85,5,1.76,7.52,2.73"/>
+        <path d="M645.45,654.25c-3.26,1.83-7.39.67-9.21-2.59s-.67-7.38,2.59-9.21c3.26-1.83,7.39-.67,9.21,2.59,1.83,3.26.67,7.38-2.59,9.21Z"/>
+        <path d="M778.92,654.1c3.48,1.37,7.41-.34,8.78-3.82s-.34-7.41-3.82-8.78c-3.48-1.37-7.41.34-8.78,3.82s.34,7.41,3.82,8.78Z"/>
+      </g>
+      <g>
+        <path class="cls-11" d="M876.08,699.5s103.17,78.79,29.92,158.8"/>
+        <polygon points="901.33 833.27 906.13 833.08 907 856.74 930.53 854.13 931.06 858.91 902.4 862.07 901.33 833.27"/>
+      </g>
+      <path d="M775.96,820.32c-9.52,16.29-17.54,33.43-23.97,51.17-6.41,17.68-11.22,35.95-14.31,54.51-3.02,18.14-4.33,37.85,5.14,54.42,3.96,6.93,9.71,12.95,16.93,16.5,7.74,3.8,16.57,4.73,25.05,3.61,18.15-2.4,33.15-13.85,46.64-25.44,12.76-10.96,24.93-23.17,33.55-37.72,8.23-13.89,12.56-29.96,10.01-46.09-2.4-15.15-10.46-29.14-21.37-39.79-11.9-11.61-27.14-18.97-43.5-21.76-17.85-3.04-36.35-.98-53.46,4.73-4.17,1.39-8.26,3.01-12.27,4.81-1.76.79-.23,3.38,1.51,2.59,16.01-7.19,33.65-11.12,51.23-10.47,16.49.61,32.81,5.48,46.2,15.28,11.89,8.7,21.45,21.03,26.19,35.04s3.9,30.38-2.24,44.56c-6.46,14.92-17.31,27.53-29.01,38.61-6.13,5.8-12.55,11.38-19.26,16.49-6.98,5.32-14.49,10.14-22.75,13.21-7.86,2.92-16.55,4.25-24.88,2.89-7.98-1.3-15.12-5.09-20.57-11.06-12-13.15-13.56-31.86-11.77-48.78.98-9.28,2.75-18.51,4.8-27.61s4.36-17.6,7.12-26.24c5.54-17.37,12.61-34.24,21.13-50.35,2.07-3.91,4.22-7.77,6.45-11.59.98-1.67-1.62-3.18-2.59-1.51h0Z"/>
+    </g>
+    <text class="cls-4" transform="translate(86.18 1002.28)"><tspan x="0" y="0">Checksum -&gt;</tspan></text>
+  </g>
+  <g id="Secret_-_Number">
+    <g id="_x30_2">
+      <circle class="cls-12" cx="560.09" cy="635.46" r="14.8"/>
+      <text class="cls-1" transform="translate(553.16 643.11)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="_x30_2-2" data-name="_x30_2">
+      <circle class="cls-12" cx="873.64" cy="636.8" r="14.8"/>
+      <text class="cls-1" transform="translate(865.72 645.45)"><tspan x="0" y="0">3</tspan></text>
+    </g>
+    <g id="_x30_2-3" data-name="_x30_2">
+      <circle class="cls-12" cx="873.64" cy="838.88" r="14.8"/>
+      <text class="cls-1" transform="translate(865.72 847.53)"><tspan x="0" y="0">4</tspan></text>
+    </g>
+  </g>
+</svg>
